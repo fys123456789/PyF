@@ -16,5 +16,6 @@ for variable in sequence:
 3.2 while 循环
  while ：
    .....
+4.具有以上特征为图灵完备语言
 
 
